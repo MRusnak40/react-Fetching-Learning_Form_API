@@ -1,0 +1,13 @@
+# Složky se závislostmi (knihovnami)
+node_modules/
+/dist
+
+# Lokální konfigurace a tajné věci
+.env
+.env*.local
+
+# Logy a soubory operačního systému
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
